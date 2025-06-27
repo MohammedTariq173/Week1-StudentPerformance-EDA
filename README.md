@@ -1,11 +1,17 @@
 # Week1-StudentPerformance-EDA
 About the Dataset:
 I used the popular Students Performance in Exams dataset from Kaggle. It contains details such as:
+
 Student gender
+
 Parental level of education
+
 Lunch type (standard or free/reduced)
+
 Test preparation course status
+
 Scores in math, reading, and writing
+
 Check it out on Kaggle
 
 What I Set Out to Do:
