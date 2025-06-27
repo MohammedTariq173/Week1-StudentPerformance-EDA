@@ -17,9 +17,13 @@ Document the whole process cleanly in a Jupyter Notebook
 
 Key Takeaways from the Analysis:
 Students who completed the test preparation course tend to score higher across all subjects.
+
 Female students outperform males in reading and writing, while males have a slight edge in math.
+
 Those with a standard lunch scored better than students with free or reduced lunch.
+
 Higher parental education levels are linked to better student scores.
+
 There’s a strong positive correlation between reading and writing scores.
 
 Tools I Used:
