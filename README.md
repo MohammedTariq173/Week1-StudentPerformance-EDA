@@ -27,9 +27,4 @@ Python (Jupyter Notebook),
 Pandas for data handling,
 Seaborn and Matplotlib for visualization
 
-What’s in the Repository?
-StudentPerformanceAnalysisTariq.ipynb – The main notebook with all my code, charts, and insights
-
-README.md – This overview file
-
 
