@@ -9,6 +9,7 @@ Scores in math, reading, and writing
 Check it out on Kaggle
 
 What I Set Out to Do:
+
 Load and explore the dataset with pandas
 
 Use grouping and averaging to compare scores across different categories
