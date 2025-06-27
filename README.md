@@ -10,9 +10,13 @@ Check it out on Kaggle
 
 What I Set Out to Do:
 Load and explore the dataset with pandas
+
 Use grouping and averaging to compare scores across different categories
+
 Visualize trends using Seaborn and Matplotlib
+
 Draw clear insights and summarize findings
+
 Document the whole process cleanly in a Jupyter Notebook
 
 Key Takeaways from the Analysis:
