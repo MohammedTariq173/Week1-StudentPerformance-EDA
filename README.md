@@ -26,8 +26,8 @@ Higher parental education levels are linked to better student scores.
 There’s a strong positive correlation between reading and writing scores.
 
 Tools I Used
-Python (Jupyter Notebook / Google Colab)
-pandas for data handling
+Python (Jupyter Notebook) 
+Pandas for data handling
 Seaborn and Matplotlib for visualization
 
 What’s in the Repository?
