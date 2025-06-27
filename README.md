@@ -1,8 +1,5 @@
 # Week1-StudentPerformance-EDA
- Student Performance Analysis – Week 1
-NSP Nexus Data Science Internship
-
-About the Dataset
+About the Dataset:
 I used the popular Students Performance in Exams dataset from Kaggle. It contains details such as:
 Student gender
 Parental level of education
@@ -11,14 +8,14 @@ Test preparation course status
 Scores in math, reading, and writing
 Check it out on Kaggle
 
-What I Set Out to Do
+What I Set Out to Do:
 Load and explore the dataset with pandas
 Use grouping and averaging to compare scores across different categories
 Visualize trends using Seaborn and Matplotlib
 Draw clear insights and summarize findings
 Document the whole process cleanly in a Jupyter Notebook
 
-Key Takeaways from the Analysis
+Key Takeaways from the Analysis:
 Students who completed the test preparation course tend to score higher across all subjects.
 Female students outperform males in reading and writing, while males have a slight edge in math.
 Those with a standard lunch scored better than students with free or reduced lunch.
@@ -35,6 +32,4 @@ StudentPerformanceAnalysisTariq.ipynb – The main notebook with all my code, ch
 
 README.md – This overview file
 
-About Me
-Mohammed Tariq
-Data Science Intern, NSP Nexus
+
