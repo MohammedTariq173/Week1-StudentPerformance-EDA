@@ -16,6 +16,7 @@ Draw clear insights and summarize findings
 Document the whole process cleanly in a Jupyter Notebook
 
 Key Takeaways from the Analysis:
+
 1.Students who completed the test preparation course tend to score higher across all subjects.
 
 2.Female students outperform males in reading and writing, while males have a slight edge in math.
